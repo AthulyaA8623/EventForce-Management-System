@@ -1,0 +1,15 @@
+🎥 Project Demo
+
+The project demonstration video explains the major features and implementation of the EventForce Management System, including:
+
+Application overview
+Client and event management
+Validation
+3-Day Reminder Flow
+Cancellation Approval Process
+Apex functionality
+Security configuration
+Reports and dashboards
+Debugging and testing
+
+Demo Video: https://drive.google.com/file/d/1FNNN_BCa_ZJs7fbKqEKUSmf_Mzx5Hw54/view?usp=sharing
